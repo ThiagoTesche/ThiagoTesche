@@ -4,11 +4,9 @@ Um jovem apaixonado por tecnologia.
 
 # Portfólio
 <img src="./design/portfolio.png" alt="portfolio-img">
-* Link para o Portfólio: <a href="https://portfolio-thiago-tesche.netlify.app/">Meu Portfólio</a>
+* Link para o Portfólio: <a href="https://portfolio-thiago-tesche.netlify.app/" target="_blank">Meu Portfólio</a>
 
 # Contato 📱 
-
-[Meu Portfólio]("https://portfolio-thiago-tesche.netlify.app/")
 
 <a href="https://www.facebook.com/thiago.tesche"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
