@@ -48,7 +48,7 @@ Um jovem apaixonado por tecnologia.
 
 # Melhores repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoTesche&repo=3columncard&theme=dracula)](https://github.com/ThiagoTesche/3columcard) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoTesche&repo=3columncard&theme=dracula)](https://github.com/ThiagoTesche/3Columncard) 
 
 <br>
 
