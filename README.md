@@ -70,6 +70,10 @@ Um jovem apaixonado por tecnologia.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoTesche&repo=Batatche_site&theme=dracula)](https://github.com/ThiagoTesche/Batatche_Site)
 
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoTesche&repo=IntroComponentForm&theme=dracula)](https://github.com/ThiagoTesche/IntroComponentForm)
+
 
 
 
