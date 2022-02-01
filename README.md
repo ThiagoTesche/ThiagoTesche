@@ -20,10 +20,9 @@ Um jovem apaixonado por tecnologia.
 
 # Sobre mim
 
-* 👩‍💻 Quero ser Desenvolvedor Front-End
+* 👩‍💻 Desenvolvedor Front-End
 * 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica
 * 🤸 Capoeirista
-* ✍️ Estudando Inglês na Educart linguagens e tecnologias
 * 🤟 Gosto de me comunicar em Libras.
 * 🐾 Tenhos vários animais
 * 🐇 incluindo uma Coelha MiniLop
@@ -36,7 +35,13 @@ Um jovem apaixonado por tecnologia.
 
 ### Linguagens and frameworks
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+👩‍💻 **Web**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
+
+ 📱 **Mobile**
+ 
+ <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 
 <br>
 
